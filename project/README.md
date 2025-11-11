@@ -75,6 +75,6 @@ Use these credentials to test the application's Admin and Student functionalitie
 
 | User Type | Student ID / Email | Password |
 | :---- | :---- | :---- |
-| **Administrator** | admin@uom.lk | admin123 |
-| **Student** | IT200100 | admin123 |
+| **Administrator** | admin@uom.lk | Admin@123 |
+| **Student** | 23IT0460 | anjana123 |
 
